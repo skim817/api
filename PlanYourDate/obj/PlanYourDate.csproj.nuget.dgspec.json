@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimsm\\source\\repos\\PlanYourDate\\PlanYourDate\\PlanYourDate.csproj": {}
+    "C:\\Users\\kimsm\\Documents\\GitHub\\api\\PlanYourDate\\PlanYourDate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimsm\\source\\repos\\PlanYourDate\\PlanYourDate\\PlanYourDate.csproj": {
+    "C:\\Users\\kimsm\\Documents\\GitHub\\api\\PlanYourDate\\PlanYourDate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimsm\\source\\repos\\PlanYourDate\\PlanYourDate\\PlanYourDate.csproj",
+        "projectUniqueName": "C:\\Users\\kimsm\\Documents\\GitHub\\api\\PlanYourDate\\PlanYourDate.csproj",
         "projectName": "PlanYourDate",
-        "projectPath": "C:\\Users\\kimsm\\source\\repos\\PlanYourDate\\PlanYourDate\\PlanYourDate.csproj",
+        "projectPath": "C:\\Users\\kimsm\\Documents\\GitHub\\api\\PlanYourDate\\PlanYourDate.csproj",
         "packagesPath": "C:\\Users\\kimsm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimsm\\source\\repos\\PlanYourDate\\PlanYourDate\\obj\\",
+        "outputPath": "C:\\Users\\kimsm\\Documents\\GitHub\\api\\PlanYourDate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,6 +44,14 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[6.1.1, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
             },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
